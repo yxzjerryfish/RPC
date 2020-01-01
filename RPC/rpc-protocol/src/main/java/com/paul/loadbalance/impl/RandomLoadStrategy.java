@@ -2,7 +2,6 @@ package com.paul.loadbalance.impl;
 
 import com.paul.framework.ServiceProvider;
 import com.paul.loadbalance.LoadStrategy;
-import jdk.management.resource.internal.ResourceNatives;
 
 import java.util.List;
 import java.util.Random;

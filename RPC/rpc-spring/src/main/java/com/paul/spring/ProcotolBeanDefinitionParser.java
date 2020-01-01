@@ -14,7 +14,6 @@ import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.beans.factory.xml.BeanDefinitionParser;
 import org.springframework.beans.factory.xml.ParserContext;
 import org.w3c.dom.Element;
-import sun.security.krb5.Config;
 
 import java.net.InetAddress;
 import java.util.List;
